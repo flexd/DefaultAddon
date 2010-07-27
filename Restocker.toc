@@ -1,0 +1,12 @@
+## Interface: 33500
+## Title: Restocker
+## Notes: Automagically warns you when you lack reagents for spells for your class, and automagically buys them when you are at a vendor that sells them.
+## Author: flexd
+## Version: 0.1-a
+## SavedVariables: RestockDB
+## OptionalDeps: Ace3
+## X-Embeds: Ace3
+embeds.xml
+Core.lua
+
+
